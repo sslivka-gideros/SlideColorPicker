@@ -1,4 +1,4 @@
 SlideColorPicker
 ================
 
-Color Picker is an easy to use color detection tool.
+Slide Color Picker is an easy to use color detection tool.
